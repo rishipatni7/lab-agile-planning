@@ -1,7 +1,7 @@
 ---
 name: 'user story '
 about: 'template for user story '
-title: ''
+title: prob
 labels: ''
 assignees: ''
 
